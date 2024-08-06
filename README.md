@@ -1,5 +1,5 @@
 # Movie-Recommender-System-Project
-Git Repository for a movie recommender system project. It is a content based movie recommender system using cosine similarity.
+It is a content based movie recommender system using cosine similarity.
 
 Welcome to the Movie Recommender System project! This project implements a content-based movie recommender system using the TMDB dataset and cosine similarity. The primary goal is to suggest movies to users based on their preferences by analyzing the content of movies they have liked.
 
